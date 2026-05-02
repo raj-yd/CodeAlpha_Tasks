@@ -30,4 +30,5 @@ int main(){
             printf("Please Enter Valid Operator.. ") ;
             main();
     }
+    return 0;
 }    
